@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/guilhermedomingues/Documents/unicamp/mc504/exp01/bats.h
+queue.h
+/Users/guilhermedomingues/Documents/unicamp/mc504/exp01/queue.h
+
+/Users/guilhermedomingues/Documents/unicamp/mc504/exp01/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+unistd.h
+-
+pthread.h
+-
+bats.h
+/Users/guilhermedomingues/Documents/unicamp/mc504/exp01/bats.h
+queue.h
+/Users/guilhermedomingues/Documents/unicamp/mc504/exp01/queue.h
+
+/Users/guilhermedomingues/Documents/unicamp/mc504/exp01/queue.h
+
